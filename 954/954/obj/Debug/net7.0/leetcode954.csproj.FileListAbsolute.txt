@@ -1,0 +1,15 @@
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\954\954\bin\Debug\net7.0\leetcode954.exe
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\954\954\bin\Debug\net7.0\leetcode954.deps.json
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\954\954\bin\Debug\net7.0\leetcode954.runtimeconfig.json
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\954\954\bin\Debug\net7.0\leetcode954.dll
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\954\954\bin\Debug\net7.0\leetcode954.pdb
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\954\954\obj\Debug\net7.0\leetcode954.csproj.AssemblyReference.cache
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\954\954\obj\Debug\net7.0\leetcode954.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\954\954\obj\Debug\net7.0\leetcode954.AssemblyInfoInputs.cache
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\954\954\obj\Debug\net7.0\leetcode954.AssemblyInfo.cs
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\954\954\obj\Debug\net7.0\leetcode954.csproj.CoreCompileInputs.cache
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\954\954\obj\Debug\net7.0\leetcode954.dll
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\954\954\obj\Debug\net7.0\refint\leetcode954.dll
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\954\954\obj\Debug\net7.0\leetcode954.pdb
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\954\954\obj\Debug\net7.0\leetcode954.genruntimeconfig.cache
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\954\954\obj\Debug\net7.0\ref\leetcode954.dll

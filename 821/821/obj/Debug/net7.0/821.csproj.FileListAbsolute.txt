@@ -1,0 +1,15 @@
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\821\821\bin\Debug\net7.0\821.exe
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\821\821\bin\Debug\net7.0\821.deps.json
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\821\821\bin\Debug\net7.0\821.runtimeconfig.json
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\821\821\bin\Debug\net7.0\821.dll
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\821\821\bin\Debug\net7.0\821.pdb
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\821\821\obj\Debug\net7.0\821.csproj.AssemblyReference.cache
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\821\821\obj\Debug\net7.0\821.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\821\821\obj\Debug\net7.0\821.AssemblyInfoInputs.cache
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\821\821\obj\Debug\net7.0\821.AssemblyInfo.cs
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\821\821\obj\Debug\net7.0\821.csproj.CoreCompileInputs.cache
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\821\821\obj\Debug\net7.0\821.dll
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\821\821\obj\Debug\net7.0\refint\821.dll
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\821\821\obj\Debug\net7.0\821.pdb
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\821\821\obj\Debug\net7.0\821.genruntimeconfig.cache
+D:\Проекты\Поиск работы\Портфолио прог\Leetcode\821\821\obj\Debug\net7.0\ref\821.dll

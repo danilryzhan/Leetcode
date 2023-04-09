@@ -10,50 +10,38 @@ public class Solution
 {
     public int[] ShortestToChar(string s, char c)
     {
-        var result = new int[s.Length];
-        var right = new int[s.Length];
-        var left = new int[s.Length];
+        int[] res = new int[s.Length];
+        int cindex = int.MaxValue;
+        int lastint = 0;
+        for(int i = 0; i < s.Length;i++)
+        {
+            if (s[i]== c)
+            {
 
-        var idx = -1;
-        for (int i = s.Length - 1; i >= 0; i--)
-        {
-            if (s[i] == c)
+                
+                for (int k = lastint;  k <= i ; k++)
+                {
+                    if (i - k > Math.Abs(cindex - k)) res[k] = Math.Abs(cindex - k);
+                    else res[k] = Math.Abs( i - k);
+                    lastint= k;
+                        
+                    
+                }
+                    cindex = i;
+               
+            }else if(i == s.Length-1)
             {
-                idx = i;
-            }
-            if (idx != -1)
-            {
-                right[i] = idx - i;
-            }
-            else
-            {
-                right[i] = int.MaxValue;
-            }
-        }
-        idx = -1;
-        for (int i = 0; i < s.Length; i++)
-        {
-            if (s[i] == c)
-            {
-                idx = i;
-            }
-            if (idx != -1)
-            {
-                left[i] = i - idx;
-            }
-            else
-            {
-                left[i] = int.MaxValue;
-            }
-        }
-        Console.WriteLine(String.Join(" ", left));
-        Console.WriteLine("----");
-        Console.WriteLine(String.Join(" ", right));
+                for (int k = lastint; k <= i; k++)
+                {
+                    res[k] = Math.Abs(cindex - k);
+                   
+                    lastint = k;
 
-        for (int i = 0; i < s.Length; i++)
-        {
-            result[i] = Math.Min(left[i], right[i]);
+
+                }
+            }
         }
-        return result;
+
+        return res;
     }
 }
